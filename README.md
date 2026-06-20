@@ -20,5 +20,3 @@
 - LinkedIn: [linkedin.com/in/felitius-fuchingo-301848319](https://www.linkedin.com/in/felitius-fuchingo-301848319)  
 
 ---
-
-✨ This repository is special because it highlights my journey in data science, annotation, and applied statistics. I believe in combining technical rigor with clear communication to build ethical, scalable AI solutions.
