@@ -1,5 +1,4 @@
-# 👋 Hi, I’m Felitius Fuchingo (@glencyberconspiracy)
-
+# 👋 Hi, I’m Felitius 
 ## 👀 Interests
 - Data Science, AI/ML Annotation, and Workflow Optimization  
 - Predictive Modeling, SQL, Python, R, Tableau, Power BI  
